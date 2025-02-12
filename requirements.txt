@@ -8,3 +8,14 @@ scikit-learn
 IPython
 llama-index-embeddings-gemini
 streamlit
+langchain-community
+openai
+tiktoken
+rapidocr-onnxruntime
+faiss-cpu
+weaviate-client
+# Voice assistant
+SpeechRecognition
+pipwin
+pyaudio
+gTTS
